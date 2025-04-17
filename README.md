@@ -19,7 +19,7 @@ A modern, responsive UI library for Roblox with a synthwave aesthetic. Synthwave
 
 ```lua
 -- Load the library
-local SynthwaveUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/whohurtyoudear/synthwaveuihub/refs/heads/main/luasource.lua"))()
+local SynthwaveUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/whohurtyoudear/tbdsynthuilib/refs/heads/main/source.lua"))()
 
 -- Create the UI
 local UI = SynthwaveUI:Create("My First UI", Color3.fromRGB(155, 89, 182))
