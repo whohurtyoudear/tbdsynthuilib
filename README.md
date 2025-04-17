@@ -1,6 +1,6 @@
 # SynthwaveUI
 
-![SynthwaveUI]([https://github.com/whohurtyoudear/synthwaveuihub/raw/main/preview.png](https://i.ibb.co/RF96GJH/standard-9.gif))
+![SynthwaveUI](https://i.ibb.co/RF96GJH/standard-9.gif)
 
 A modern, responsive UI library for Roblox with a synthwave aesthetic. SynthwaveUI provides a full suite of UI components with a sleek design that works in both standard Roblox environments and executor scripts.
 
