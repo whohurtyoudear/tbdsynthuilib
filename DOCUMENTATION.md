@@ -26,7 +26,7 @@ SynthwaveUI is a modern, responsive UI library for Roblox, providing a sleek use
 ### Option 1: LoadString from GitHub (Recommended)
 
 ```lua
-local SynthwaveUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/whohurtyoudear/synthwaveuihub/refs/heads/main/luasource.lua"))()
+local SynthwaveUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/whohurtyoudear/tbdsynthuilib/refs/heads/main/source.lua"))()
 ```
 
 ### Option 2: Local File in Executor
